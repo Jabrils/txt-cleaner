@@ -1,0 +1,10 @@
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\bin\Debug\txt cleaner.exe.config
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\bin\Debug\txt cleaner.exe
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\bin\Debug\txt cleaner.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt cleaner.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt_cleaner.Form1.resources
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt_cleaner.Properties.Resources.resources
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt cleaner.csproj.GenerateResource.Cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt cleaner.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt cleaner.exe
+E:\SEFD Stuff\SEFD - 2017\Super Function!\PROJECTS\FLOATING\Demonetized Predictor App\txt cleaner\txt cleaner\obj\Debug\txt cleaner.pdb
