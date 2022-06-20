@@ -1,5 +1,5 @@
 # txt-cleaner
-A viewer requested to have this software & so thou shalst recieve!
+A viewer requested to have this software & so thou shalst receive!
 
 Here is the link to the original video:
 https://www.youtube.com/watch?v=mqxOllyGtDA&list=PL0nQ4vmdWaA3NiegBEyH-R_PsgwEOHJpR
